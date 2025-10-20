@@ -4,4 +4,5 @@
     <string name="notification.vpn">There may be errors due to VPN</string>
     <string name="wibe">Wibe</string>
     <string name="profile">Profile</string>
+    <string name="notification.success_saved_wibe">Вайб сохранен</string>
 </resources>
