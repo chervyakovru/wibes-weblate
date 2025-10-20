@@ -2,4 +2,5 @@
 <resources>
     <string name="settings">Settings</string>
     <string name="notification.vpn">There may be errors due to VPN</string>
+    <string name="wibe">Wibe</string>
 </resources>
