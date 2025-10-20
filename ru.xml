@@ -4,4 +4,5 @@
     <string name="wibe">Вайб</string>
     <string name="notification.vpn">Из-за VPN могут возникнуть ошибки</string>
     <string name="profile">Профиль</string>
+    <string name="settings1">Настройки</string>
 </resources>
